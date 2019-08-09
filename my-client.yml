@@ -1,3 +1,2 @@
-my-config:
-  appName: my-app
-  sayHello: hello word!
+appName: my-app
+sayHello: hello word!
